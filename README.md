@@ -66,7 +66,7 @@ This section guides you through setting up and running the project:
 **2. Running the Project :**
 - Clone this repository:
 ```bash
-  git clone https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis.git
+  git clone https://github.com/aditya-johnson/Twitter-Sentiment-Analysis.git
 ```
 
 - **Navigate to the Project Directory :**
@@ -107,12 +107,12 @@ Contributions are welcome! Feel free to `fork` this repository and create a `pul
 - Build a web application or API for real-time sentiment analysis.
 ## Authors
 
-- [@Shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
+- [@Shubham Bhatia](https://www.linkedin.com/in/aditya-johnson/)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
+If you have any feedback, please reach out to me at aditya-johnson@gmail.com
 
 
 ## Acknowledgements
@@ -128,8 +128,8 @@ If you have any feedback, please reach out to me at Shubhambhatia2103@gmail.com
 
 ## Contact
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/shubhambhatia2103/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/shubhambhatia2103) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/aditya-johnson/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aditya-johnson) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](https://github.com/shubhambhatia2103/Twitter-Sentiment-Analysis/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
+This repository is licensed under the MIT License - see the [LICENSE](https://github.com/aditya-johnson/Twitter-Sentiment-Analysis/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
 
