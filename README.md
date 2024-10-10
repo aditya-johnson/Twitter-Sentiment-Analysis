@@ -112,7 +112,7 @@ Contributions are welcome! Feel free to `fork` this repository and create a `pul
 
 ## Feedback
 
-If you have any feedback, please reach out to me at adityajohnsonstanley1706@gmail.com
+If you have any feedback, please reach out to me at adityajohnsonstanley1709@gmail.com
 
 
 ## Acknowledgements
@@ -120,16 +120,6 @@ If you have any feedback, please reach out to me at adityajohnsonstanley1706@gma
  - [Kaggle Dataset: Twitter Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140)
  - [NLTK Book: Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
  - [scikit-learn documentation](https://scikit-learn.org/stable/)
- - [Youtube](https://youtu.be/4YGkfAd2iXM?si=gA8Ea2s1mufVRF2f)
- - [GeeksforGeeks](https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/)
  - [NLTK Book: Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
  - [scikit-learn documentation](https://scikit-learn.org/stable/)
  - [GeeksforGeeks](https://youtu.be/4YGkfAd2iXM?si=gA8Ea2s1mufVRF2f)
-
-## Contact
-
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/aditya-johnson/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aditya-johnson) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/6eingshubham) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="Twitter">](https://twitter.com/whoodattboyy)
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](https://github.com/aditya-johnson/Twitter-Sentiment-Analysis/blob/main/LICENSE) file for details. Feel free to use, modify, and distribute the code as per the terms of the license.
-
